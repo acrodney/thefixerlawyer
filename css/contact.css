@@ -1,0 +1,602 @@
+.contactdiv{
+    width: 100%;
+    background-color: rgb(246, 246, 246);
+    height: fit-content;
+}
+.cmdv{
+    width: 50%;
+    height: fit-content;
+    padding: 10px;
+}
+.contactform{
+    width: 80%;
+    height: fit-content;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 4px 8px 0 rgba(223, 223, 223, 0.9);  
+
+}
+.contactform h5{
+    font-size: 25px;
+    color: #3d3d3d;
+}
+.contactform:hover{
+    transition: 1s;
+    cursor: pointer;
+    background-color: rgb(200, 200, 200);
+}
+.aboutspace{
+    background-image: url(../images/qqq111.jpg);
+}
+.aboutword h5{
+    color: white;
+}
+.submittBTN{
+    width: 90%;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #3d3d3d;
+    color: white;
+    border: 1px solid rgb(200, 200, 200);;
+}
+.submittBTN:hover{
+    background-color: black;
+    transition: 1s;
+}
+.contform{
+    display: block;
+}
+.contform h6{
+    width: 90%;
+    text-align: left;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px;
+    font-style: italic;
+    padding-bottom: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contform label{
+    background-color: rgb(246, 246, 246);
+    padding: 10px;
+    width: 100%;
+    border-bottom: 1px solid #5d5d5d;    
+}
+.inputfieldsa{
+    width: 85%;
+    padding: 0;
+    border: none;
+    font-size: 13px;
+    text-align: left;
+    background-color: rgb(246, 246, 246);
+    color: #5d5d5d;
+    font-style: italic;
+    padding-left: 10px;
+}
+.inputfieldsa:focus{
+    outline: none;
+}
+.inputfieldsa::placeholder{
+    color: #5d5d5d;
+}
+.textty{
+    height: fit-content;
+}
+.texta{
+    width: 85%;
+    padding: 0;
+    border: none;
+    font-size: 13px;
+    height: 200px;
+    text-align: left;
+    background-color: rgb(246, 246, 246);
+    color: #5d5d5d;
+    font-style: italic;
+    padding-left: 10px;
+}
+.texta:focus{
+    outline: none;
+}
+.texta::placeholder{
+    color: #5d5d5d;
+}
+.inputico{
+    padding-right: 10px;
+    color: #5d5d5d;
+    border-right: 2px dashed red;
+}
+
+.breakoff{
+    width: 100%;
+    height: 40px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1280px) {
+
+  
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 1150px) {
+   
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 1100px) {
+
+    .cmdv{
+        width: 60%;
+    }
+
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+    
+
+
+
+
+
+   }
+
+
+@media screen and (max-width: 1000px) {
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 980px) {
+   
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 912px) {
+    
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 900px) {
+    
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 820px){
+
+
+
+
+    .cmdv{
+        width: 70%;
+    }
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 800px) {
+ 
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+  
+  
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 760px) {
+  
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 720px) {
+  
+
+    .cmdv{
+        width: 80%;
+    }
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 712px) {
+  
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 700px) {
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 650px) {
+  
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 640px) {
+ 
+   
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+
+    
+
+    .cmdv{
+        width: 90%;
+    }
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 540px) {
+ 
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 500px) {
+ 
+
+    .cmdv{
+        width: 90%;
+    }
+    .contactform{
+        width: 100%;
+    }
+
+
+
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+   
+ 
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 420px) {
+
+   
+   
+
+
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 414px) {
+
+  
+   
+
+
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 412px) {
+
+  
+   
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 411px) {
+
+  
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 393px){
+ 
+
+
+
+}
+
+
+@media screen and (max-width: 390px){
+  
+  
+
+
+
+
+}
+
+
+@media screen and (max-width: 384px){
+  
+    
+   
+    .inputfieldsa, .texta{
+        width: 80%;
+    }
+    .contactform h5{
+        font-size: 18px;
+    }
+
+
+
+}
+
+
+
+@media screen and (max-width: 375px){
+
+    .inputfieldsa, .texta{
+        width: 80%;
+        font-size: 12px;
+    }
+    .contactform h5{
+        font-size: 18px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 360px) {
+
+   
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 353px) {
+
+   
+
+
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 320px){
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 300px) {
+ 
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 280px){
+  
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 240px) {
+
+  
+
+
+}
